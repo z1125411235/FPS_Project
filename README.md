@@ -16,3 +16,5 @@ Developed with Unreal Engine 4
   取自 https://www.youtube.com/channel/UCrjeAxL9javEuwV_ASyuBUw/videos  
 3.Git for UE4 / Unreal Engine 4  
   取自 https://www.youtube.com/watch?v=FXMTHrLWFKQ  
+4.Mixamo  
+  取自 https://www.mixamo.com/#/
